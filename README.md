@@ -11,8 +11,8 @@ Entra ID.<br />
 - Windows 11
 <h2>Joiner</h2>
 <p>
-<img width="1919" height="628" alt="image"
-src="https://github.com/user-attachments/assets/608b84c3-7759-4cd1-be2e-fc14d98a658b" />
+<img width="1402" height="677" alt="operation systems" src="https://github.com/user-attachments/assets/e6e06c6b-79a0-4699-a353-650c2e7dd2d8" />
+
 </p>
 <p>
 User's that have Joined organization.
@@ -20,11 +20,11 @@ User's that have Joined organization.
 <br />
 <h2>Mover</h2>
 <p>
-<img width="999" height="764" alt="image"
-src="https://github.com/user-attachments/assets/425ff6e0-6bf2-467a-9de5-7f9f6b64e188" />
+<img width="1157" height="790" alt="CHRIS - IT" src="https://github.com/user-attachments/assets/ffbc56b8-35f1-4f23-b47a-026608d9e8e5" />
+
 <p>
-<img width="1024" height="759" alt="image"
-src="https://github.com/user-attachments/assets/c97eaf5f-77f7-4591-9b7f-39647833afe8" />
+<img width="1032" height="707" alt="chris HR" src="https://github.com/user-attachments/assets/e8fb769d-1a55-4640-adfe-7ba69cf1fd99" />
+
 </p>
 <p>
 User that has transfered to another department in organization. Went from IT to HR.
@@ -32,8 +32,8 @@ User that has transfered to another department in organization. Went from IT to 
 <br />
 <h2>Leaver</h2>
 <p>
-<img width="1918" height="740" alt="image"
-src="https://github.com/user-attachments/assets/db4ab28a-097b-4861-b38a-033efc63a127" />
+<img width="1672" height="728" alt="EMMA DELETED" src="https://github.com/user-attachments/assets/2784527a-20a2-4546-a627-98d0e1601b1b" />
+
 </p>
 <p>
 User that has left the organization.
